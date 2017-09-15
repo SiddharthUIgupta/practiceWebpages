@@ -1,0 +1,28 @@
+.blockTwo {
+  position: relative;
+  background-color: #d6e0f5;
+  opacity: .7;
+  padding: 10px;
+  width: 44%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+.pOne{
+  padding-top:1em;
+  padding-bottom:0;
+  font-size:1.5em;
+}
+.h1Three {
+text-align: center;
+  font-size: 4.0em;
+  color: black;
+  text-shadow: 2px 2px 8px #000000;
+  padding: 50px;
+  padding-bottom:45px;
+}
+
+footer{
+  background-color:  #12243a;
+  width: 100%;
+}
